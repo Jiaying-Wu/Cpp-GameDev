@@ -8,11 +8,15 @@ add_executable(2.1-SillyStory FIT1048 lab2/2.1-SillyStory.cpp)
 
 add_executable(2.2-StringAnalyzer FIT1048 lab2/2.2-StringAnalyzer.cpp)
 
-add_executable(2.3-FileReadWriter FIT1048 lab2/2.3-FileReadWriter.cpp)
+add_executable(2.3-FileReadWriter1 FIT1048 lab2/2.3-FileReadWriter1.cpp)
 
-add_executable(3.1-GuessMyNumber FIT1048 lab3/3.1-GuessMyNumber.cpp)
+add_executable(3.1-GuessMyNumber1 FIT1048 lab3/3.1-GuessMyNumber.cpp)
 
-add_executable(3.2-StringRacers FIT1048 lab3/3.2-StringRacers.cpp)
+add_executable(3.2-GuessMyNumber2 FIT1048 lab3/3.2-GuessMyNumber2.cpp)
+
+add_executable(3.3-StringRacers FIT1048 lab3/3.3-StringRacers.cpp)
+
+add_executable(3.4-FileReadWriter2 FIT1048 lab3/3.4-FileReadWriter2.cpp)
 
 add_executable(4.1-Magic8Ball FIT1048 lab4/4.1-Magic8Ball.cpp)
 
@@ -27,3 +31,5 @@ add_executable(7.1-RPGGame1 FIT1048 lab7/7.1-RPGGame1.cpp)
 add_executable(8.1-NoughtsAndCrosses FIT1048 lab8/8.1-NoughtsAndCorsses.cpp)
 
 add_executable(9.1-RPGGame2 FIT1048 lab9/9.1-RPGGame2.cpp)
+
+add_executable(10.1-RPGGame4 FIT1048 lab10/10.1-RPGGame4.cpp)
