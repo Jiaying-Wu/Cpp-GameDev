@@ -24,7 +24,7 @@ add_executable(4.2-WordScrambler FIT1048 lab4/4.2-WordScrambler.cpp)
 
 add_executable(5.1-LittlePiggy1 FIT1048 lab5/5.1-LittlePiggy1.cpp)
 
-add_executable(6.1-LittlePiggy2 FIT1048 lab6/6.1-LittlePiggy2.cpp)
+add_executable(6.1-LittlePiggy2 FIT1048 lab6/6.1-Player.cpp)
 
 add_executable(7.1-RPGGame1 FIT1048 lab7/7.1-RPGGame1.cpp)
 
