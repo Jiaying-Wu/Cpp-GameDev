@@ -17,16 +17,6 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="rebuild_cache">
-				<Option working_dir="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
 			<Target title="10.1-RPGGame4">
 				<Option output="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/10.1-RPGGame4" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug"/>
@@ -71,8 +61,8 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="7.1-RPGGame1">
-				<Option output="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/7.1-RPGGame1" prefix_auto="0" extension_auto="0"/>
+			<Target title="8.2-NoughtsAndCrosses2">
+				<Option output="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/8.2-NoughtsAndCrosses2" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -87,14 +77,14 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 7.1-RPGGame1"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 8.2-NoughtsAndCrosses2"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="7.1-RPGGame1/fast">
-				<Option output="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/7.1-RPGGame1" prefix_auto="0" extension_auto="0"/>
+			<Target title="8.2-NoughtsAndCrosses2/fast">
+				<Option output="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/8.2-NoughtsAndCrosses2" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -109,14 +99,14 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 7.1-RPGGame1/fast"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 8.2-NoughtsAndCrosses2/fast"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="3.3-StringRacers">
-				<Option output="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/3.3-StringRacers" prefix_auto="0" extension_auto="0"/>
+			<Target title="7.3-RPGGame1">
+				<Option output="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/7.3-RPGGame1" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -131,14 +121,14 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 3.3-StringRacers"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 7.3-RPGGame1"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="3.3-StringRacers/fast">
-				<Option output="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/3.3-StringRacers" prefix_auto="0" extension_auto="0"/>
+			<Target title="7.3-RPGGame1/fast">
+				<Option output="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/7.3-RPGGame1" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -153,14 +143,14 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 3.3-StringRacers/fast"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 7.3-RPGGame1/fast"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="6.1-LittlePiggy2">
-				<Option output="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/6.1-LittlePiggy2" prefix_auto="0" extension_auto="0"/>
+			<Target title="7.2-Item">
+				<Option output="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/7.2-Item" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -175,14 +165,14 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 6.1-LittlePiggy2"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 7.2-Item"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="6.1-LittlePiggy2/fast">
-				<Option output="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/6.1-LittlePiggy2" prefix_auto="0" extension_auto="0"/>
+			<Target title="7.2-Item/fast">
+				<Option output="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/7.2-Item" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -197,7 +187,193 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 6.1-LittlePiggy2/fast"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 7.2-Item/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7.1-Character">
+				<Option output="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/7.1-Character" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 7.1-Character"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7.1-Character/fast">
+				<Option output="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/7.1-Character" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 7.1-Character/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="6.2-LittlePiggy2">
+				<Option output="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/6.2-LittlePiggy2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 6.2-LittlePiggy2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="6.2-LittlePiggy2/fast">
+				<Option output="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/6.2-LittlePiggy2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 6.2-LittlePiggy2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="8.1-NoughtsAndCrosses1">
+				<Option output="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/8.1-NoughtsAndCrosses1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 8.1-NoughtsAndCrosses1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="8.1-NoughtsAndCrosses1/fast">
+				<Option output="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/8.1-NoughtsAndCrosses1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 8.1-NoughtsAndCrosses1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="6.1-Player">
+				<Option output="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/6.1-Player" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 6.1-Player"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="6.1-Player/fast">
+				<Option output="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/6.1-Player" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 6.1-Player/fast"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -379,50 +555,6 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="8.1-NoughtsAndCrosses">
-				<Option output="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/8.1-NoughtsAndCrosses" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 8.1-NoughtsAndCrosses"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="8.1-NoughtsAndCrosses/fast">
-				<Option output="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/8.1-NoughtsAndCrosses" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 8.1-NoughtsAndCrosses/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
 			<Target title="3.4-FileReadWriter2">
 				<Option output="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/3.4-FileReadWriter2" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug"/>
@@ -462,6 +594,50 @@
 				</Compiler>
 				<MakeCommands>
 					<Build command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 3.4-FileReadWriter2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3.3-StringRacers">
+				<Option output="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/3.3-StringRacers" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 3.3-StringRacers"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3.3-StringRacers/fast">
+				<Option output="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/3.3-StringRacers" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 3.3-StringRacers/fast"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -700,15 +876,19 @@
 		</Build>
 		<Unit filename="/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/FIT1048">
 			<Option target="10.1-RPGGame4"/>
-			<Option target="7.1-RPGGame1"/>
-			<Option target="3.3-StringRacers"/>
-			<Option target="6.1-LittlePiggy2"/>
+			<Option target="8.2-NoughtsAndCrosses2"/>
+			<Option target="7.3-RPGGame1"/>
+			<Option target="7.2-Item"/>
+			<Option target="7.1-Character"/>
+			<Option target="6.2-LittlePiggy2"/>
+			<Option target="8.1-NoughtsAndCrosses1"/>
+			<Option target="6.1-Player"/>
 			<Option target="5.1-LittlePiggy1"/>
 			<Option target="2.2-StringAnalyzer"/>
 			<Option target="3.1-GuessMyNumber1"/>
 			<Option target="4.1-Magic8Ball"/>
-			<Option target="8.1-NoughtsAndCrosses"/>
 			<Option target="3.4-FileReadWriter2"/>
+			<Option target="3.3-StringRacers"/>
 			<Option target="9.1-RPGGame2"/>
 			<Option target="2.3-FileReadWriter1"/>
 			<Option target="3.2-GuessMyNumber2"/>
@@ -748,14 +928,26 @@
 		<Unit filename="/Users/jiayingwu/Desktop/FIT1048/lab5/5.1-LittlePiggy1.cpp">
 			<Option target="5.1-LittlePiggy1"/>
 		</Unit>
-		<Unit filename="/Users/jiayingwu/Desktop/FIT1048/lab6/6.1-LittlePiggy2.cpp">
-			<Option target="6.1-LittlePiggy2"/>
+		<Unit filename="/Users/jiayingwu/Desktop/FIT1048/lab6/6.1-Player.cpp">
+			<Option target="6.1-Player"/>
 		</Unit>
-		<Unit filename="/Users/jiayingwu/Desktop/FIT1048/lab7/7.1-RPGGame1.cpp">
-			<Option target="7.1-RPGGame1"/>
+		<Unit filename="/Users/jiayingwu/Desktop/FIT1048/lab6/6.2-LittlePiggy2.cpp">
+			<Option target="6.2-LittlePiggy2"/>
 		</Unit>
-		<Unit filename="/Users/jiayingwu/Desktop/FIT1048/lab8/8.1-NoughtsAndCorsses.cpp">
-			<Option target="8.1-NoughtsAndCrosses"/>
+		<Unit filename="/Users/jiayingwu/Desktop/FIT1048/lab7/7.1-Character.cpp">
+			<Option target="7.1-Character"/>
+		</Unit>
+		<Unit filename="/Users/jiayingwu/Desktop/FIT1048/lab7/7.2-Item.cpp">
+			<Option target="7.2-Item"/>
+		</Unit>
+		<Unit filename="/Users/jiayingwu/Desktop/FIT1048/lab7/7.3-RPGGame1.cpp">
+			<Option target="7.3-RPGGame1"/>
+		</Unit>
+		<Unit filename="/Users/jiayingwu/Desktop/FIT1048/lab8/8.1-NoughtsAndCrosses1.cpp">
+			<Option target="8.1-NoughtsAndCrosses1"/>
+		</Unit>
+		<Unit filename="/Users/jiayingwu/Desktop/FIT1048/lab8/8.2-NoughtsAndCrosses2.cpp">
+			<Option target="8.2-NoughtsAndCrosses2"/>
 		</Unit>
 		<Unit filename="/Users/jiayingwu/Desktop/FIT1048/lab9/9.1-RPGGame2.cpp">
 			<Option target="9.1-RPGGame2"/>

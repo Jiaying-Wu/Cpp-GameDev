@@ -102,113 +102,261 @@ clean: CMakeFiles/10.1-RPGGame4.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/7.1-RPGGame1.dir
+# Target rules for target CMakeFiles/8.2-NoughtsAndCrosses2.dir
 
 # All Build rule for target.
-CMakeFiles/7.1-RPGGame1.dir/all:
-	$(MAKE) -f CMakeFiles/7.1-RPGGame1.dir/build.make CMakeFiles/7.1-RPGGame1.dir/depend
-	$(MAKE) -f CMakeFiles/7.1-RPGGame1.dir/build.make CMakeFiles/7.1-RPGGame1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles --progress-num=25,26 "Built target 7.1-RPGGame1"
-.PHONY : CMakeFiles/7.1-RPGGame1.dir/all
+CMakeFiles/8.2-NoughtsAndCrosses2.dir/all:
+	$(MAKE) -f CMakeFiles/8.2-NoughtsAndCrosses2.dir/build.make CMakeFiles/8.2-NoughtsAndCrosses2.dir/depend
+	$(MAKE) -f CMakeFiles/8.2-NoughtsAndCrosses2.dir/build.make CMakeFiles/8.2-NoughtsAndCrosses2.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles --progress-num=35,36 "Built target 8.2-NoughtsAndCrosses2"
+.PHONY : CMakeFiles/8.2-NoughtsAndCrosses2.dir/all
 
 # Include target in all.
-all: CMakeFiles/7.1-RPGGame1.dir/all
+all: CMakeFiles/8.2-NoughtsAndCrosses2.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/7.1-RPGGame1.dir/rule: cmake_check_build_system
+CMakeFiles/8.2-NoughtsAndCrosses2.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/7.1-RPGGame1.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/8.2-NoughtsAndCrosses2.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/7.1-RPGGame1.dir/rule
+.PHONY : CMakeFiles/8.2-NoughtsAndCrosses2.dir/rule
 
 # Convenience name for target.
-7.1-RPGGame1: CMakeFiles/7.1-RPGGame1.dir/rule
+8.2-NoughtsAndCrosses2: CMakeFiles/8.2-NoughtsAndCrosses2.dir/rule
 
-.PHONY : 7.1-RPGGame1
-
-# clean rule for target.
-CMakeFiles/7.1-RPGGame1.dir/clean:
-	$(MAKE) -f CMakeFiles/7.1-RPGGame1.dir/build.make CMakeFiles/7.1-RPGGame1.dir/clean
-.PHONY : CMakeFiles/7.1-RPGGame1.dir/clean
+.PHONY : 8.2-NoughtsAndCrosses2
 
 # clean rule for target.
-clean: CMakeFiles/7.1-RPGGame1.dir/clean
+CMakeFiles/8.2-NoughtsAndCrosses2.dir/clean:
+	$(MAKE) -f CMakeFiles/8.2-NoughtsAndCrosses2.dir/build.make CMakeFiles/8.2-NoughtsAndCrosses2.dir/clean
+.PHONY : CMakeFiles/8.2-NoughtsAndCrosses2.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/8.2-NoughtsAndCrosses2.dir/clean
 
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/3.3-StringRacers.dir
+# Target rules for target CMakeFiles/7.3-RPGGame1.dir
 
 # All Build rule for target.
-CMakeFiles/3.3-StringRacers.dir/all:
-	$(MAKE) -f CMakeFiles/3.3-StringRacers.dir/build.make CMakeFiles/3.3-StringRacers.dir/depend
-	$(MAKE) -f CMakeFiles/3.3-StringRacers.dir/build.make CMakeFiles/3.3-StringRacers.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles --progress-num=13,14 "Built target 3.3-StringRacers"
-.PHONY : CMakeFiles/3.3-StringRacers.dir/all
+CMakeFiles/7.3-RPGGame1.dir/all:
+	$(MAKE) -f CMakeFiles/7.3-RPGGame1.dir/build.make CMakeFiles/7.3-RPGGame1.dir/depend
+	$(MAKE) -f CMakeFiles/7.3-RPGGame1.dir/build.make CMakeFiles/7.3-RPGGame1.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles --progress-num=31,32 "Built target 7.3-RPGGame1"
+.PHONY : CMakeFiles/7.3-RPGGame1.dir/all
 
 # Include target in all.
-all: CMakeFiles/3.3-StringRacers.dir/all
+all: CMakeFiles/7.3-RPGGame1.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/3.3-StringRacers.dir/rule: cmake_check_build_system
+CMakeFiles/7.3-RPGGame1.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/3.3-StringRacers.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/7.3-RPGGame1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/3.3-StringRacers.dir/rule
+.PHONY : CMakeFiles/7.3-RPGGame1.dir/rule
 
 # Convenience name for target.
-3.3-StringRacers: CMakeFiles/3.3-StringRacers.dir/rule
+7.3-RPGGame1: CMakeFiles/7.3-RPGGame1.dir/rule
 
-.PHONY : 3.3-StringRacers
-
-# clean rule for target.
-CMakeFiles/3.3-StringRacers.dir/clean:
-	$(MAKE) -f CMakeFiles/3.3-StringRacers.dir/build.make CMakeFiles/3.3-StringRacers.dir/clean
-.PHONY : CMakeFiles/3.3-StringRacers.dir/clean
+.PHONY : 7.3-RPGGame1
 
 # clean rule for target.
-clean: CMakeFiles/3.3-StringRacers.dir/clean
+CMakeFiles/7.3-RPGGame1.dir/clean:
+	$(MAKE) -f CMakeFiles/7.3-RPGGame1.dir/build.make CMakeFiles/7.3-RPGGame1.dir/clean
+.PHONY : CMakeFiles/7.3-RPGGame1.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/7.3-RPGGame1.dir/clean
 
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/6.1-LittlePiggy2.dir
+# Target rules for target CMakeFiles/7.2-Item.dir
 
 # All Build rule for target.
-CMakeFiles/6.1-LittlePiggy2.dir/all:
-	$(MAKE) -f CMakeFiles/6.1-LittlePiggy2.dir/build.make CMakeFiles/6.1-LittlePiggy2.dir/depend
-	$(MAKE) -f CMakeFiles/6.1-LittlePiggy2.dir/build.make CMakeFiles/6.1-LittlePiggy2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles --progress-num=23,24 "Built target 6.1-LittlePiggy2"
-.PHONY : CMakeFiles/6.1-LittlePiggy2.dir/all
+CMakeFiles/7.2-Item.dir/all:
+	$(MAKE) -f CMakeFiles/7.2-Item.dir/build.make CMakeFiles/7.2-Item.dir/depend
+	$(MAKE) -f CMakeFiles/7.2-Item.dir/build.make CMakeFiles/7.2-Item.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles --progress-num=29,30 "Built target 7.2-Item"
+.PHONY : CMakeFiles/7.2-Item.dir/all
 
 # Include target in all.
-all: CMakeFiles/6.1-LittlePiggy2.dir/all
+all: CMakeFiles/7.2-Item.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/6.1-LittlePiggy2.dir/rule: cmake_check_build_system
+CMakeFiles/7.2-Item.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/6.1-LittlePiggy2.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/7.2-Item.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/6.1-LittlePiggy2.dir/rule
+.PHONY : CMakeFiles/7.2-Item.dir/rule
 
 # Convenience name for target.
-6.1-LittlePiggy2: CMakeFiles/6.1-LittlePiggy2.dir/rule
+7.2-Item: CMakeFiles/7.2-Item.dir/rule
 
-.PHONY : 6.1-LittlePiggy2
-
-# clean rule for target.
-CMakeFiles/6.1-LittlePiggy2.dir/clean:
-	$(MAKE) -f CMakeFiles/6.1-LittlePiggy2.dir/build.make CMakeFiles/6.1-LittlePiggy2.dir/clean
-.PHONY : CMakeFiles/6.1-LittlePiggy2.dir/clean
+.PHONY : 7.2-Item
 
 # clean rule for target.
-clean: CMakeFiles/6.1-LittlePiggy2.dir/clean
+CMakeFiles/7.2-Item.dir/clean:
+	$(MAKE) -f CMakeFiles/7.2-Item.dir/build.make CMakeFiles/7.2-Item.dir/clean
+.PHONY : CMakeFiles/7.2-Item.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/7.2-Item.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/7.1-Character.dir
+
+# All Build rule for target.
+CMakeFiles/7.1-Character.dir/all:
+	$(MAKE) -f CMakeFiles/7.1-Character.dir/build.make CMakeFiles/7.1-Character.dir/depend
+	$(MAKE) -f CMakeFiles/7.1-Character.dir/build.make CMakeFiles/7.1-Character.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles --progress-num=27,28 "Built target 7.1-Character"
+.PHONY : CMakeFiles/7.1-Character.dir/all
+
+# Include target in all.
+all: CMakeFiles/7.1-Character.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/7.1-Character.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/7.1-Character.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/7.1-Character.dir/rule
+
+# Convenience name for target.
+7.1-Character: CMakeFiles/7.1-Character.dir/rule
+
+.PHONY : 7.1-Character
+
+# clean rule for target.
+CMakeFiles/7.1-Character.dir/clean:
+	$(MAKE) -f CMakeFiles/7.1-Character.dir/build.make CMakeFiles/7.1-Character.dir/clean
+.PHONY : CMakeFiles/7.1-Character.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/7.1-Character.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/6.2-LittlePiggy2.dir
+
+# All Build rule for target.
+CMakeFiles/6.2-LittlePiggy2.dir/all:
+	$(MAKE) -f CMakeFiles/6.2-LittlePiggy2.dir/build.make CMakeFiles/6.2-LittlePiggy2.dir/depend
+	$(MAKE) -f CMakeFiles/6.2-LittlePiggy2.dir/build.make CMakeFiles/6.2-LittlePiggy2.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles --progress-num=25,26 "Built target 6.2-LittlePiggy2"
+.PHONY : CMakeFiles/6.2-LittlePiggy2.dir/all
+
+# Include target in all.
+all: CMakeFiles/6.2-LittlePiggy2.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/6.2-LittlePiggy2.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/6.2-LittlePiggy2.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/6.2-LittlePiggy2.dir/rule
+
+# Convenience name for target.
+6.2-LittlePiggy2: CMakeFiles/6.2-LittlePiggy2.dir/rule
+
+.PHONY : 6.2-LittlePiggy2
+
+# clean rule for target.
+CMakeFiles/6.2-LittlePiggy2.dir/clean:
+	$(MAKE) -f CMakeFiles/6.2-LittlePiggy2.dir/build.make CMakeFiles/6.2-LittlePiggy2.dir/clean
+.PHONY : CMakeFiles/6.2-LittlePiggy2.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/6.2-LittlePiggy2.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/8.1-NoughtsAndCrosses1.dir
+
+# All Build rule for target.
+CMakeFiles/8.1-NoughtsAndCrosses1.dir/all:
+	$(MAKE) -f CMakeFiles/8.1-NoughtsAndCrosses1.dir/build.make CMakeFiles/8.1-NoughtsAndCrosses1.dir/depend
+	$(MAKE) -f CMakeFiles/8.1-NoughtsAndCrosses1.dir/build.make CMakeFiles/8.1-NoughtsAndCrosses1.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles --progress-num=33,34 "Built target 8.1-NoughtsAndCrosses1"
+.PHONY : CMakeFiles/8.1-NoughtsAndCrosses1.dir/all
+
+# Include target in all.
+all: CMakeFiles/8.1-NoughtsAndCrosses1.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/8.1-NoughtsAndCrosses1.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/8.1-NoughtsAndCrosses1.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/8.1-NoughtsAndCrosses1.dir/rule
+
+# Convenience name for target.
+8.1-NoughtsAndCrosses1: CMakeFiles/8.1-NoughtsAndCrosses1.dir/rule
+
+.PHONY : 8.1-NoughtsAndCrosses1
+
+# clean rule for target.
+CMakeFiles/8.1-NoughtsAndCrosses1.dir/clean:
+	$(MAKE) -f CMakeFiles/8.1-NoughtsAndCrosses1.dir/build.make CMakeFiles/8.1-NoughtsAndCrosses1.dir/clean
+.PHONY : CMakeFiles/8.1-NoughtsAndCrosses1.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/8.1-NoughtsAndCrosses1.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/6.1-Player.dir
+
+# All Build rule for target.
+CMakeFiles/6.1-Player.dir/all:
+	$(MAKE) -f CMakeFiles/6.1-Player.dir/build.make CMakeFiles/6.1-Player.dir/depend
+	$(MAKE) -f CMakeFiles/6.1-Player.dir/build.make CMakeFiles/6.1-Player.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles --progress-num=23,24 "Built target 6.1-Player"
+.PHONY : CMakeFiles/6.1-Player.dir/all
+
+# Include target in all.
+all: CMakeFiles/6.1-Player.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/6.1-Player.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/6.1-Player.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/6.1-Player.dir/rule
+
+# Convenience name for target.
+6.1-Player: CMakeFiles/6.1-Player.dir/rule
+
+.PHONY : 6.1-Player
+
+# clean rule for target.
+CMakeFiles/6.1-Player.dir/clean:
+	$(MAKE) -f CMakeFiles/6.1-Player.dir/build.make CMakeFiles/6.1-Player.dir/clean
+.PHONY : CMakeFiles/6.1-Player.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/6.1-Player.dir/clean
 
 .PHONY : clean
 
@@ -361,43 +509,6 @@ clean: CMakeFiles/4.1-Magic8Ball.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/8.1-NoughtsAndCrosses.dir
-
-# All Build rule for target.
-CMakeFiles/8.1-NoughtsAndCrosses.dir/all:
-	$(MAKE) -f CMakeFiles/8.1-NoughtsAndCrosses.dir/build.make CMakeFiles/8.1-NoughtsAndCrosses.dir/depend
-	$(MAKE) -f CMakeFiles/8.1-NoughtsAndCrosses.dir/build.make CMakeFiles/8.1-NoughtsAndCrosses.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles --progress-num=27,28 "Built target 8.1-NoughtsAndCrosses"
-.PHONY : CMakeFiles/8.1-NoughtsAndCrosses.dir/all
-
-# Include target in all.
-all: CMakeFiles/8.1-NoughtsAndCrosses.dir/all
-
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/8.1-NoughtsAndCrosses.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/8.1-NoughtsAndCrosses.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/8.1-NoughtsAndCrosses.dir/rule
-
-# Convenience name for target.
-8.1-NoughtsAndCrosses: CMakeFiles/8.1-NoughtsAndCrosses.dir/rule
-
-.PHONY : 8.1-NoughtsAndCrosses
-
-# clean rule for target.
-CMakeFiles/8.1-NoughtsAndCrosses.dir/clean:
-	$(MAKE) -f CMakeFiles/8.1-NoughtsAndCrosses.dir/build.make CMakeFiles/8.1-NoughtsAndCrosses.dir/clean
-.PHONY : CMakeFiles/8.1-NoughtsAndCrosses.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/8.1-NoughtsAndCrosses.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
 # Target rules for target CMakeFiles/3.4-FileReadWriter2.dir
 
 # All Build rule for target.
@@ -435,13 +546,50 @@ clean: CMakeFiles/3.4-FileReadWriter2.dir/clean
 .PHONY : clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/3.3-StringRacers.dir
+
+# All Build rule for target.
+CMakeFiles/3.3-StringRacers.dir/all:
+	$(MAKE) -f CMakeFiles/3.3-StringRacers.dir/build.make CMakeFiles/3.3-StringRacers.dir/depend
+	$(MAKE) -f CMakeFiles/3.3-StringRacers.dir/build.make CMakeFiles/3.3-StringRacers.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles --progress-num=13,14 "Built target 3.3-StringRacers"
+.PHONY : CMakeFiles/3.3-StringRacers.dir/all
+
+# Include target in all.
+all: CMakeFiles/3.3-StringRacers.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/3.3-StringRacers.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/3.3-StringRacers.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/3.3-StringRacers.dir/rule
+
+# Convenience name for target.
+3.3-StringRacers: CMakeFiles/3.3-StringRacers.dir/rule
+
+.PHONY : 3.3-StringRacers
+
+# clean rule for target.
+CMakeFiles/3.3-StringRacers.dir/clean:
+	$(MAKE) -f CMakeFiles/3.3-StringRacers.dir/build.make CMakeFiles/3.3-StringRacers.dir/clean
+.PHONY : CMakeFiles/3.3-StringRacers.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/3.3-StringRacers.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/9.1-RPGGame2.dir
 
 # All Build rule for target.
 CMakeFiles/9.1-RPGGame2.dir/all:
 	$(MAKE) -f CMakeFiles/9.1-RPGGame2.dir/build.make CMakeFiles/9.1-RPGGame2.dir/depend
 	$(MAKE) -f CMakeFiles/9.1-RPGGame2.dir/build.make CMakeFiles/9.1-RPGGame2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles --progress-num=29,30 "Built target 9.1-RPGGame2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles --progress-num=37,38 "Built target 9.1-RPGGame2"
 .PHONY : CMakeFiles/9.1-RPGGame2.dir/all
 
 # Include target in all.

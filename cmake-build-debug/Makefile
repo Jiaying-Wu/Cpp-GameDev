@@ -124,43 +124,95 @@ depend:
 .PHONY : 10.1-RPGGame4/fast
 
 #=============================================================================
-# Target rules for targets named 7.1-RPGGame1
+# Target rules for targets named 8.2-NoughtsAndCrosses2
 
 # Build rule for target.
-7.1-RPGGame1: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 7.1-RPGGame1
-.PHONY : 7.1-RPGGame1
+8.2-NoughtsAndCrosses2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 8.2-NoughtsAndCrosses2
+.PHONY : 8.2-NoughtsAndCrosses2
 
 # fast build rule for target.
-7.1-RPGGame1/fast:
-	$(MAKE) -f CMakeFiles/7.1-RPGGame1.dir/build.make CMakeFiles/7.1-RPGGame1.dir/build
-.PHONY : 7.1-RPGGame1/fast
+8.2-NoughtsAndCrosses2/fast:
+	$(MAKE) -f CMakeFiles/8.2-NoughtsAndCrosses2.dir/build.make CMakeFiles/8.2-NoughtsAndCrosses2.dir/build
+.PHONY : 8.2-NoughtsAndCrosses2/fast
 
 #=============================================================================
-# Target rules for targets named 3.3-StringRacers
+# Target rules for targets named 7.3-RPGGame1
 
 # Build rule for target.
-3.3-StringRacers: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 3.3-StringRacers
-.PHONY : 3.3-StringRacers
+7.3-RPGGame1: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 7.3-RPGGame1
+.PHONY : 7.3-RPGGame1
 
 # fast build rule for target.
-3.3-StringRacers/fast:
-	$(MAKE) -f CMakeFiles/3.3-StringRacers.dir/build.make CMakeFiles/3.3-StringRacers.dir/build
-.PHONY : 3.3-StringRacers/fast
+7.3-RPGGame1/fast:
+	$(MAKE) -f CMakeFiles/7.3-RPGGame1.dir/build.make CMakeFiles/7.3-RPGGame1.dir/build
+.PHONY : 7.3-RPGGame1/fast
 
 #=============================================================================
-# Target rules for targets named 6.1-LittlePiggy2
+# Target rules for targets named 7.2-Item
 
 # Build rule for target.
-6.1-LittlePiggy2: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 6.1-LittlePiggy2
-.PHONY : 6.1-LittlePiggy2
+7.2-Item: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 7.2-Item
+.PHONY : 7.2-Item
 
 # fast build rule for target.
-6.1-LittlePiggy2/fast:
-	$(MAKE) -f CMakeFiles/6.1-LittlePiggy2.dir/build.make CMakeFiles/6.1-LittlePiggy2.dir/build
-.PHONY : 6.1-LittlePiggy2/fast
+7.2-Item/fast:
+	$(MAKE) -f CMakeFiles/7.2-Item.dir/build.make CMakeFiles/7.2-Item.dir/build
+.PHONY : 7.2-Item/fast
+
+#=============================================================================
+# Target rules for targets named 7.1-Character
+
+# Build rule for target.
+7.1-Character: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 7.1-Character
+.PHONY : 7.1-Character
+
+# fast build rule for target.
+7.1-Character/fast:
+	$(MAKE) -f CMakeFiles/7.1-Character.dir/build.make CMakeFiles/7.1-Character.dir/build
+.PHONY : 7.1-Character/fast
+
+#=============================================================================
+# Target rules for targets named 6.2-LittlePiggy2
+
+# Build rule for target.
+6.2-LittlePiggy2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 6.2-LittlePiggy2
+.PHONY : 6.2-LittlePiggy2
+
+# fast build rule for target.
+6.2-LittlePiggy2/fast:
+	$(MAKE) -f CMakeFiles/6.2-LittlePiggy2.dir/build.make CMakeFiles/6.2-LittlePiggy2.dir/build
+.PHONY : 6.2-LittlePiggy2/fast
+
+#=============================================================================
+# Target rules for targets named 8.1-NoughtsAndCrosses1
+
+# Build rule for target.
+8.1-NoughtsAndCrosses1: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 8.1-NoughtsAndCrosses1
+.PHONY : 8.1-NoughtsAndCrosses1
+
+# fast build rule for target.
+8.1-NoughtsAndCrosses1/fast:
+	$(MAKE) -f CMakeFiles/8.1-NoughtsAndCrosses1.dir/build.make CMakeFiles/8.1-NoughtsAndCrosses1.dir/build
+.PHONY : 8.1-NoughtsAndCrosses1/fast
+
+#=============================================================================
+# Target rules for targets named 6.1-Player
+
+# Build rule for target.
+6.1-Player: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 6.1-Player
+.PHONY : 6.1-Player
+
+# fast build rule for target.
+6.1-Player/fast:
+	$(MAKE) -f CMakeFiles/6.1-Player.dir/build.make CMakeFiles/6.1-Player.dir/build
+.PHONY : 6.1-Player/fast
 
 #=============================================================================
 # Target rules for targets named 5.1-LittlePiggy1
@@ -215,19 +267,6 @@ depend:
 .PHONY : 4.1-Magic8Ball/fast
 
 #=============================================================================
-# Target rules for targets named 8.1-NoughtsAndCrosses
-
-# Build rule for target.
-8.1-NoughtsAndCrosses: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 8.1-NoughtsAndCrosses
-.PHONY : 8.1-NoughtsAndCrosses
-
-# fast build rule for target.
-8.1-NoughtsAndCrosses/fast:
-	$(MAKE) -f CMakeFiles/8.1-NoughtsAndCrosses.dir/build.make CMakeFiles/8.1-NoughtsAndCrosses.dir/build
-.PHONY : 8.1-NoughtsAndCrosses/fast
-
-#=============================================================================
 # Target rules for targets named 3.4-FileReadWriter2
 
 # Build rule for target.
@@ -239,6 +278,19 @@ depend:
 3.4-FileReadWriter2/fast:
 	$(MAKE) -f CMakeFiles/3.4-FileReadWriter2.dir/build.make CMakeFiles/3.4-FileReadWriter2.dir/build
 .PHONY : 3.4-FileReadWriter2/fast
+
+#=============================================================================
+# Target rules for targets named 3.3-StringRacers
+
+# Build rule for target.
+3.3-StringRacers: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 3.3-StringRacers
+.PHONY : 3.3-StringRacers
+
+# fast build rule for target.
+3.3-StringRacers/fast:
+	$(MAKE) -f CMakeFiles/3.3-StringRacers.dir/build.make CMakeFiles/3.3-StringRacers.dir/build
+.PHONY : 3.3-StringRacers/fast
 
 #=============================================================================
 # Target rules for targets named 9.1-RPGGame2
@@ -602,86 +654,194 @@ lab5/5.1-LittlePiggy1.cpp.s:
 	$(MAKE) -f CMakeFiles/5.1-LittlePiggy1.dir/build.make CMakeFiles/5.1-LittlePiggy1.dir/lab5/5.1-LittlePiggy1.cpp.s
 .PHONY : lab5/5.1-LittlePiggy1.cpp.s
 
-lab6/6.1-LittlePiggy2.o: lab6/6.1-LittlePiggy2.cpp.o
+lab6/6.1-Player.o: lab6/6.1-Player.cpp.o
 
-.PHONY : lab6/6.1-LittlePiggy2.o
-
-# target to build an object file
-lab6/6.1-LittlePiggy2.cpp.o:
-	$(MAKE) -f CMakeFiles/6.1-LittlePiggy2.dir/build.make CMakeFiles/6.1-LittlePiggy2.dir/lab6/6.1-LittlePiggy2.cpp.o
-.PHONY : lab6/6.1-LittlePiggy2.cpp.o
-
-lab6/6.1-LittlePiggy2.i: lab6/6.1-LittlePiggy2.cpp.i
-
-.PHONY : lab6/6.1-LittlePiggy2.i
-
-# target to preprocess a source file
-lab6/6.1-LittlePiggy2.cpp.i:
-	$(MAKE) -f CMakeFiles/6.1-LittlePiggy2.dir/build.make CMakeFiles/6.1-LittlePiggy2.dir/lab6/6.1-LittlePiggy2.cpp.i
-.PHONY : lab6/6.1-LittlePiggy2.cpp.i
-
-lab6/6.1-LittlePiggy2.s: lab6/6.1-LittlePiggy2.cpp.s
-
-.PHONY : lab6/6.1-LittlePiggy2.s
-
-# target to generate assembly for a file
-lab6/6.1-LittlePiggy2.cpp.s:
-	$(MAKE) -f CMakeFiles/6.1-LittlePiggy2.dir/build.make CMakeFiles/6.1-LittlePiggy2.dir/lab6/6.1-LittlePiggy2.cpp.s
-.PHONY : lab6/6.1-LittlePiggy2.cpp.s
-
-lab7/7.1-RPGGame1.o: lab7/7.1-RPGGame1.cpp.o
-
-.PHONY : lab7/7.1-RPGGame1.o
+.PHONY : lab6/6.1-Player.o
 
 # target to build an object file
-lab7/7.1-RPGGame1.cpp.o:
-	$(MAKE) -f CMakeFiles/7.1-RPGGame1.dir/build.make CMakeFiles/7.1-RPGGame1.dir/lab7/7.1-RPGGame1.cpp.o
-.PHONY : lab7/7.1-RPGGame1.cpp.o
+lab6/6.1-Player.cpp.o:
+	$(MAKE) -f CMakeFiles/6.1-Player.dir/build.make CMakeFiles/6.1-Player.dir/lab6/6.1-Player.cpp.o
+.PHONY : lab6/6.1-Player.cpp.o
 
-lab7/7.1-RPGGame1.i: lab7/7.1-RPGGame1.cpp.i
+lab6/6.1-Player.i: lab6/6.1-Player.cpp.i
 
-.PHONY : lab7/7.1-RPGGame1.i
+.PHONY : lab6/6.1-Player.i
 
 # target to preprocess a source file
-lab7/7.1-RPGGame1.cpp.i:
-	$(MAKE) -f CMakeFiles/7.1-RPGGame1.dir/build.make CMakeFiles/7.1-RPGGame1.dir/lab7/7.1-RPGGame1.cpp.i
-.PHONY : lab7/7.1-RPGGame1.cpp.i
+lab6/6.1-Player.cpp.i:
+	$(MAKE) -f CMakeFiles/6.1-Player.dir/build.make CMakeFiles/6.1-Player.dir/lab6/6.1-Player.cpp.i
+.PHONY : lab6/6.1-Player.cpp.i
 
-lab7/7.1-RPGGame1.s: lab7/7.1-RPGGame1.cpp.s
+lab6/6.1-Player.s: lab6/6.1-Player.cpp.s
 
-.PHONY : lab7/7.1-RPGGame1.s
+.PHONY : lab6/6.1-Player.s
 
 # target to generate assembly for a file
-lab7/7.1-RPGGame1.cpp.s:
-	$(MAKE) -f CMakeFiles/7.1-RPGGame1.dir/build.make CMakeFiles/7.1-RPGGame1.dir/lab7/7.1-RPGGame1.cpp.s
-.PHONY : lab7/7.1-RPGGame1.cpp.s
+lab6/6.1-Player.cpp.s:
+	$(MAKE) -f CMakeFiles/6.1-Player.dir/build.make CMakeFiles/6.1-Player.dir/lab6/6.1-Player.cpp.s
+.PHONY : lab6/6.1-Player.cpp.s
 
-lab8/8.1-NoughtsAndCorsses.o: lab8/8.1-NoughtsAndCorsses.cpp.o
+lab6/6.2-LittlePiggy2.o: lab6/6.2-LittlePiggy2.cpp.o
 
-.PHONY : lab8/8.1-NoughtsAndCorsses.o
+.PHONY : lab6/6.2-LittlePiggy2.o
 
 # target to build an object file
-lab8/8.1-NoughtsAndCorsses.cpp.o:
-	$(MAKE) -f CMakeFiles/8.1-NoughtsAndCrosses.dir/build.make CMakeFiles/8.1-NoughtsAndCrosses.dir/lab8/8.1-NoughtsAndCorsses.cpp.o
-.PHONY : lab8/8.1-NoughtsAndCorsses.cpp.o
+lab6/6.2-LittlePiggy2.cpp.o:
+	$(MAKE) -f CMakeFiles/6.2-LittlePiggy2.dir/build.make CMakeFiles/6.2-LittlePiggy2.dir/lab6/6.2-LittlePiggy2.cpp.o
+.PHONY : lab6/6.2-LittlePiggy2.cpp.o
 
-lab8/8.1-NoughtsAndCorsses.i: lab8/8.1-NoughtsAndCorsses.cpp.i
+lab6/6.2-LittlePiggy2.i: lab6/6.2-LittlePiggy2.cpp.i
 
-.PHONY : lab8/8.1-NoughtsAndCorsses.i
+.PHONY : lab6/6.2-LittlePiggy2.i
 
 # target to preprocess a source file
-lab8/8.1-NoughtsAndCorsses.cpp.i:
-	$(MAKE) -f CMakeFiles/8.1-NoughtsAndCrosses.dir/build.make CMakeFiles/8.1-NoughtsAndCrosses.dir/lab8/8.1-NoughtsAndCorsses.cpp.i
-.PHONY : lab8/8.1-NoughtsAndCorsses.cpp.i
+lab6/6.2-LittlePiggy2.cpp.i:
+	$(MAKE) -f CMakeFiles/6.2-LittlePiggy2.dir/build.make CMakeFiles/6.2-LittlePiggy2.dir/lab6/6.2-LittlePiggy2.cpp.i
+.PHONY : lab6/6.2-LittlePiggy2.cpp.i
 
-lab8/8.1-NoughtsAndCorsses.s: lab8/8.1-NoughtsAndCorsses.cpp.s
+lab6/6.2-LittlePiggy2.s: lab6/6.2-LittlePiggy2.cpp.s
 
-.PHONY : lab8/8.1-NoughtsAndCorsses.s
+.PHONY : lab6/6.2-LittlePiggy2.s
 
 # target to generate assembly for a file
-lab8/8.1-NoughtsAndCorsses.cpp.s:
-	$(MAKE) -f CMakeFiles/8.1-NoughtsAndCrosses.dir/build.make CMakeFiles/8.1-NoughtsAndCrosses.dir/lab8/8.1-NoughtsAndCorsses.cpp.s
-.PHONY : lab8/8.1-NoughtsAndCorsses.cpp.s
+lab6/6.2-LittlePiggy2.cpp.s:
+	$(MAKE) -f CMakeFiles/6.2-LittlePiggy2.dir/build.make CMakeFiles/6.2-LittlePiggy2.dir/lab6/6.2-LittlePiggy2.cpp.s
+.PHONY : lab6/6.2-LittlePiggy2.cpp.s
+
+lab7/7.1-Character.o: lab7/7.1-Character.cpp.o
+
+.PHONY : lab7/7.1-Character.o
+
+# target to build an object file
+lab7/7.1-Character.cpp.o:
+	$(MAKE) -f CMakeFiles/7.1-Character.dir/build.make CMakeFiles/7.1-Character.dir/lab7/7.1-Character.cpp.o
+.PHONY : lab7/7.1-Character.cpp.o
+
+lab7/7.1-Character.i: lab7/7.1-Character.cpp.i
+
+.PHONY : lab7/7.1-Character.i
+
+# target to preprocess a source file
+lab7/7.1-Character.cpp.i:
+	$(MAKE) -f CMakeFiles/7.1-Character.dir/build.make CMakeFiles/7.1-Character.dir/lab7/7.1-Character.cpp.i
+.PHONY : lab7/7.1-Character.cpp.i
+
+lab7/7.1-Character.s: lab7/7.1-Character.cpp.s
+
+.PHONY : lab7/7.1-Character.s
+
+# target to generate assembly for a file
+lab7/7.1-Character.cpp.s:
+	$(MAKE) -f CMakeFiles/7.1-Character.dir/build.make CMakeFiles/7.1-Character.dir/lab7/7.1-Character.cpp.s
+.PHONY : lab7/7.1-Character.cpp.s
+
+lab7/7.2-Item.o: lab7/7.2-Item.cpp.o
+
+.PHONY : lab7/7.2-Item.o
+
+# target to build an object file
+lab7/7.2-Item.cpp.o:
+	$(MAKE) -f CMakeFiles/7.2-Item.dir/build.make CMakeFiles/7.2-Item.dir/lab7/7.2-Item.cpp.o
+.PHONY : lab7/7.2-Item.cpp.o
+
+lab7/7.2-Item.i: lab7/7.2-Item.cpp.i
+
+.PHONY : lab7/7.2-Item.i
+
+# target to preprocess a source file
+lab7/7.2-Item.cpp.i:
+	$(MAKE) -f CMakeFiles/7.2-Item.dir/build.make CMakeFiles/7.2-Item.dir/lab7/7.2-Item.cpp.i
+.PHONY : lab7/7.2-Item.cpp.i
+
+lab7/7.2-Item.s: lab7/7.2-Item.cpp.s
+
+.PHONY : lab7/7.2-Item.s
+
+# target to generate assembly for a file
+lab7/7.2-Item.cpp.s:
+	$(MAKE) -f CMakeFiles/7.2-Item.dir/build.make CMakeFiles/7.2-Item.dir/lab7/7.2-Item.cpp.s
+.PHONY : lab7/7.2-Item.cpp.s
+
+lab7/7.3-RPGGame1.o: lab7/7.3-RPGGame1.cpp.o
+
+.PHONY : lab7/7.3-RPGGame1.o
+
+# target to build an object file
+lab7/7.3-RPGGame1.cpp.o:
+	$(MAKE) -f CMakeFiles/7.3-RPGGame1.dir/build.make CMakeFiles/7.3-RPGGame1.dir/lab7/7.3-RPGGame1.cpp.o
+.PHONY : lab7/7.3-RPGGame1.cpp.o
+
+lab7/7.3-RPGGame1.i: lab7/7.3-RPGGame1.cpp.i
+
+.PHONY : lab7/7.3-RPGGame1.i
+
+# target to preprocess a source file
+lab7/7.3-RPGGame1.cpp.i:
+	$(MAKE) -f CMakeFiles/7.3-RPGGame1.dir/build.make CMakeFiles/7.3-RPGGame1.dir/lab7/7.3-RPGGame1.cpp.i
+.PHONY : lab7/7.3-RPGGame1.cpp.i
+
+lab7/7.3-RPGGame1.s: lab7/7.3-RPGGame1.cpp.s
+
+.PHONY : lab7/7.3-RPGGame1.s
+
+# target to generate assembly for a file
+lab7/7.3-RPGGame1.cpp.s:
+	$(MAKE) -f CMakeFiles/7.3-RPGGame1.dir/build.make CMakeFiles/7.3-RPGGame1.dir/lab7/7.3-RPGGame1.cpp.s
+.PHONY : lab7/7.3-RPGGame1.cpp.s
+
+lab8/8.1-NoughtsAndCrosses1.o: lab8/8.1-NoughtsAndCrosses1.cpp.o
+
+.PHONY : lab8/8.1-NoughtsAndCrosses1.o
+
+# target to build an object file
+lab8/8.1-NoughtsAndCrosses1.cpp.o:
+	$(MAKE) -f CMakeFiles/8.1-NoughtsAndCrosses1.dir/build.make CMakeFiles/8.1-NoughtsAndCrosses1.dir/lab8/8.1-NoughtsAndCrosses1.cpp.o
+.PHONY : lab8/8.1-NoughtsAndCrosses1.cpp.o
+
+lab8/8.1-NoughtsAndCrosses1.i: lab8/8.1-NoughtsAndCrosses1.cpp.i
+
+.PHONY : lab8/8.1-NoughtsAndCrosses1.i
+
+# target to preprocess a source file
+lab8/8.1-NoughtsAndCrosses1.cpp.i:
+	$(MAKE) -f CMakeFiles/8.1-NoughtsAndCrosses1.dir/build.make CMakeFiles/8.1-NoughtsAndCrosses1.dir/lab8/8.1-NoughtsAndCrosses1.cpp.i
+.PHONY : lab8/8.1-NoughtsAndCrosses1.cpp.i
+
+lab8/8.1-NoughtsAndCrosses1.s: lab8/8.1-NoughtsAndCrosses1.cpp.s
+
+.PHONY : lab8/8.1-NoughtsAndCrosses1.s
+
+# target to generate assembly for a file
+lab8/8.1-NoughtsAndCrosses1.cpp.s:
+	$(MAKE) -f CMakeFiles/8.1-NoughtsAndCrosses1.dir/build.make CMakeFiles/8.1-NoughtsAndCrosses1.dir/lab8/8.1-NoughtsAndCrosses1.cpp.s
+.PHONY : lab8/8.1-NoughtsAndCrosses1.cpp.s
+
+lab8/8.2-NoughtsAndCrosses2.o: lab8/8.2-NoughtsAndCrosses2.cpp.o
+
+.PHONY : lab8/8.2-NoughtsAndCrosses2.o
+
+# target to build an object file
+lab8/8.2-NoughtsAndCrosses2.cpp.o:
+	$(MAKE) -f CMakeFiles/8.2-NoughtsAndCrosses2.dir/build.make CMakeFiles/8.2-NoughtsAndCrosses2.dir/lab8/8.2-NoughtsAndCrosses2.cpp.o
+.PHONY : lab8/8.2-NoughtsAndCrosses2.cpp.o
+
+lab8/8.2-NoughtsAndCrosses2.i: lab8/8.2-NoughtsAndCrosses2.cpp.i
+
+.PHONY : lab8/8.2-NoughtsAndCrosses2.i
+
+# target to preprocess a source file
+lab8/8.2-NoughtsAndCrosses2.cpp.i:
+	$(MAKE) -f CMakeFiles/8.2-NoughtsAndCrosses2.dir/build.make CMakeFiles/8.2-NoughtsAndCrosses2.dir/lab8/8.2-NoughtsAndCrosses2.cpp.i
+.PHONY : lab8/8.2-NoughtsAndCrosses2.cpp.i
+
+lab8/8.2-NoughtsAndCrosses2.s: lab8/8.2-NoughtsAndCrosses2.cpp.s
+
+.PHONY : lab8/8.2-NoughtsAndCrosses2.s
+
+# target to generate assembly for a file
+lab8/8.2-NoughtsAndCrosses2.cpp.s:
+	$(MAKE) -f CMakeFiles/8.2-NoughtsAndCrosses2.dir/build.make CMakeFiles/8.2-NoughtsAndCrosses2.dir/lab8/8.2-NoughtsAndCrosses2.cpp.s
+.PHONY : lab8/8.2-NoughtsAndCrosses2.cpp.s
 
 lab9/9.1-RPGGame2.o: lab9/9.1-RPGGame2.cpp.o
 
@@ -716,17 +876,21 @@ help:
 	@echo "... all (the default if no target is provided)"
 	@echo "... clean"
 	@echo "... depend"
-	@echo "... rebuild_cache"
 	@echo "... 10.1-RPGGame4"
-	@echo "... 7.1-RPGGame1"
-	@echo "... 3.3-StringRacers"
-	@echo "... 6.1-LittlePiggy2"
+	@echo "... 8.2-NoughtsAndCrosses2"
+	@echo "... 7.3-RPGGame1"
+	@echo "... 7.2-Item"
+	@echo "... 7.1-Character"
+	@echo "... 6.2-LittlePiggy2"
+	@echo "... rebuild_cache"
+	@echo "... 8.1-NoughtsAndCrosses1"
+	@echo "... 6.1-Player"
 	@echo "... 5.1-LittlePiggy1"
 	@echo "... 2.2-StringAnalyzer"
 	@echo "... 3.1-GuessMyNumber1"
 	@echo "... 4.1-Magic8Ball"
-	@echo "... 8.1-NoughtsAndCrosses"
 	@echo "... 3.4-FileReadWriter2"
+	@echo "... 3.3-StringRacers"
 	@echo "... 9.1-RPGGame2"
 	@echo "... 2.3-FileReadWriter1"
 	@echo "... 3.2-GuessMyNumber2"
@@ -766,15 +930,27 @@ help:
 	@echo "... lab5/5.1-LittlePiggy1.o"
 	@echo "... lab5/5.1-LittlePiggy1.i"
 	@echo "... lab5/5.1-LittlePiggy1.s"
-	@echo "... lab6/6.1-LittlePiggy2.o"
-	@echo "... lab6/6.1-LittlePiggy2.i"
-	@echo "... lab6/6.1-LittlePiggy2.s"
-	@echo "... lab7/7.1-RPGGame1.o"
-	@echo "... lab7/7.1-RPGGame1.i"
-	@echo "... lab7/7.1-RPGGame1.s"
-	@echo "... lab8/8.1-NoughtsAndCorsses.o"
-	@echo "... lab8/8.1-NoughtsAndCorsses.i"
-	@echo "... lab8/8.1-NoughtsAndCorsses.s"
+	@echo "... lab6/6.1-Player.o"
+	@echo "... lab6/6.1-Player.i"
+	@echo "... lab6/6.1-Player.s"
+	@echo "... lab6/6.2-LittlePiggy2.o"
+	@echo "... lab6/6.2-LittlePiggy2.i"
+	@echo "... lab6/6.2-LittlePiggy2.s"
+	@echo "... lab7/7.1-Character.o"
+	@echo "... lab7/7.1-Character.i"
+	@echo "... lab7/7.1-Character.s"
+	@echo "... lab7/7.2-Item.o"
+	@echo "... lab7/7.2-Item.i"
+	@echo "... lab7/7.2-Item.s"
+	@echo "... lab7/7.3-RPGGame1.o"
+	@echo "... lab7/7.3-RPGGame1.i"
+	@echo "... lab7/7.3-RPGGame1.s"
+	@echo "... lab8/8.1-NoughtsAndCrosses1.o"
+	@echo "... lab8/8.1-NoughtsAndCrosses1.i"
+	@echo "... lab8/8.1-NoughtsAndCrosses1.s"
+	@echo "... lab8/8.2-NoughtsAndCrosses2.o"
+	@echo "... lab8/8.2-NoughtsAndCrosses2.i"
+	@echo "... lab8/8.2-NoughtsAndCrosses2.s"
 	@echo "... lab9/9.1-RPGGame2.o"
 	@echo "... lab9/9.1-RPGGame2.i"
 	@echo "... lab9/9.1-RPGGame2.s"

@@ -24,11 +24,19 @@ add_executable(4.2-WordScrambler FIT1048 lab4/4.2-WordScrambler.cpp)
 
 add_executable(5.1-LittlePiggy1 FIT1048 lab5/5.1-LittlePiggy1.cpp)
 
-add_executable(6.1-LittlePiggy2 FIT1048 lab6/6.1-Player.cpp)
+add_executable(6.1-Player FIT1048 lab6/6.1-Player.cpp)
 
-add_executable(7.1-RPGGame1 FIT1048 lab7/7.1-Character.cpp)
+add_executable(6.2-LittlePiggy2 FIT1048 lab6/6.2-LittlePiggy2.cpp)
 
-add_executable(8.1-NoughtsAndCrosses FIT1048 lab8/8.1-NoughtsAndCorsses.cpp)
+add_executable(7.1-Character FIT1048 lab7/7.1-Character.cpp)
+
+add_executable(7.2-Item FIT1048 lab7/7.2-Item.cpp)
+
+add_executable(7.3-RPGGame1 FIT1048 lab7/7.3-RPGGame1.cpp)
+
+add_executable(8.1-NoughtsAndCrosses1 FIT1048 lab8/8.1-NoughtsAndCrosses1.cpp)
+
+add_executable(8.2-NoughtsAndCrosses2 FIT1048 lab8/8.2-NoughtsAndCrosses2.cpp)
 
 add_executable(9.1-RPGGame2 FIT1048 lab9/9.1-RPGGame2.cpp)
 
