@@ -26,7 +26,7 @@ add_executable(5.1-LittlePiggy1 FIT1048 lab5/5.1-LittlePiggy1.cpp)
 
 add_executable(6.1-LittlePiggy2 FIT1048 lab6/6.1-Player.cpp)
 
-add_executable(7.1-RPGGame1 FIT1048 lab7/7.1-RPGGame1.cpp)
+add_executable(7.1-RPGGame1 FIT1048 lab7/7.1-Character.cpp)
 
 add_executable(8.1-NoughtsAndCrosses FIT1048 lab8/8.1-NoughtsAndCorsses.cpp)
 
