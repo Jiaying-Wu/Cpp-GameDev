@@ -52,4 +52,4 @@ add_executable(9.6-RPGGame2 FIT1048 lab9/9.6-RPGGame2.cpp)
 
 add_executable(9.1-RPGGame2 FIT1048 lab9/9.1-Character2.cpp)
 
-add_executable(10.1-RPGGame4 FIT1048 lab10/10.1-RPGGame4.cpp)
+add_executable(10.1-RPGGame4 FIT1048 lab10/10.3-RPGGame3.cpp)
