@@ -38,6 +38,18 @@ add_executable(8.1-NoughtsAndCrosses1 FIT1048 lab8/8.1-NoughtsAndCrosses1.cpp)
 
 add_executable(8.2-NoughtsAndCrosses2 FIT1048 lab8/8.2-NoughtsAndCrosses2.cpp)
 
-add_executable(9.1-RPGGame2 FIT1048 lab9/9.1-RPGGame2.cpp)
+add_executable(9.1-Character2 FIT1048 lab9/9.1-Character2.cpp)
+
+add_executable(9.2-Fighter FIT1048 lab9/9.2-Fighter.cpp)
+
+add_executable(9.3-Thief FIT1048 lab9/9.3-Thief.cpp)
+
+add_executable(9.4-Healer FIT1048 lab9/9.4-Healer.cpp)
+
+add_executable(9.5-Wizard FIT1048 lab9/9.5-Wizard.cpp)
+
+add_executable(9.6-RPGGame2 FIT1048 lab9/9.6-RPGGame2.cpp)
+
+add_executable(9.1-RPGGame2 FIT1048 lab9/9.1-Character2.cpp)
 
 add_executable(10.1-RPGGame4 FIT1048 lab10/10.1-RPGGame4.cpp)
