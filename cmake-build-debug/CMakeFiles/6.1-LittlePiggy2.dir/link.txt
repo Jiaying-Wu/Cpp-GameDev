@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/6.1-LittlePiggy2.dir/lab6/6.1-LittlePiggy2.cpp.o  -o 6.1-LittlePiggy2 

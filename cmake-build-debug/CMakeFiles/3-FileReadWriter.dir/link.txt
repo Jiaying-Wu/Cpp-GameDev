@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/3-FileReadWriter.dir/lab2/FileReadWriter.cpp.o  -o 3-FileReadWriter 

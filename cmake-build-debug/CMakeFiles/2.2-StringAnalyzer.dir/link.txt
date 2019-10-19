@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/2.2-StringAnalyzer.dir/lab2/2.2-StringAnalyzer.cpp.o  -o 2.2-StringAnalyzer 

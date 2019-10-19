@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/1-SillyStory.dir/lab2/SillyStory.cpp.o  -o 1-SillyStory 

@@ -1,0 +1,17 @@
+/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles/10.1-RPGGame4.dir
+/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles/7.1-RPGGame1.dir
+/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles/3.3-StringRacers.dir
+/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles/6.1-LittlePiggy2.dir
+/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles/5.1-LittlePiggy1.dir
+/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles/2.2-StringAnalyzer.dir
+/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles/3.1-GuessMyNumber1.dir
+/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles/4.1-Magic8Ball.dir
+/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles/8.1-NoughtsAndCrosses.dir
+/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles/3.4-FileReadWriter2.dir
+/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles/9.1-RPGGame2.dir
+/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles/2.3-FileReadWriter1.dir
+/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles/3.2-GuessMyNumber2.dir
+/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles/4.2-WordScrambler.dir
+/Users/jiayingwu/Desktop/FIT1048/cmake-build-debug/CMakeFiles/2.1-SillyStory.dir

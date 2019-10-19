@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jiayingwu/Desktop/FIT1048/lab3/3.2-GuessMyNumber2.cpp
+iostream
+-
+string
+-
+time.h
+-
+

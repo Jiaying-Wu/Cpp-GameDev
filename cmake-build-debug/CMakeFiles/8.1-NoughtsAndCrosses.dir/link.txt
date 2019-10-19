@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/8.1-NoughtsAndCrosses.dir/lab8/8.1-NoughtsAndCorsses.cpp.o  -o 8.1-NoughtsAndCrosses 

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/10.1-RPGGame4.dir/lab10/10.1-RPGGame4.cpp.o  -o 10.1-RPGGame4 
